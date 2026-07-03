@@ -4,7 +4,7 @@ RBG-Maxwell is a general framework that simulates the (relativistic) collisional
 
 ## 1. The RBG-Maxwell Module
 
-The package is coded by Jun-Jie Zhang Jian-Nan Chen and improved by Ming-Yan Sun. The project will be consistently maintained by Ming-Yan Sun and Jun-Jie Zhang. 
+The package is coded by Jun-Jie Zhang, Jian-Nan Chen and improved by Ming-Yan Sun. The project will be consistently maintained by Ming-Yan Sun and Jun-Jie Zhang. 
 
 For further help, please contact us at zjacob@mail.ustc.edu.cn Jun-Jie Zhang, chennn1994@alumni.sjtu.edu.cn Jian-Nan Chen and sunmingyan0301@163.com Ming-Yan Sun 
 
