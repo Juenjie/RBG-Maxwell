@@ -4,9 +4,9 @@ RBG-Maxwell is a general framework that simulates the (relativistic) collisional
 
 ## 1. The RBG-Maxwell Module
 
-The package is coded by Jun-Jie Zhang  and improved by   Ming-Yan Sun. The project will be consistently maintained by Ming-Yan Sun and Jun-Jie Zhang. 
+The package is coded by Jun-Jie Zhang Jian-Nan Chen and improved by Ming-Yan Sun. The project will be consistently maintained by Ming-Yan Sun and Jun-Jie Zhang. 
 
-For further help, please contact us at zjacob@mail.ustc.edu.cn Jun-Jie Zhang and sunmingyan0301@163.com Ming-Yan Sun 
+For further help, please contact us at zjacob@mail.ustc.edu.cn Jun-Jie Zhang, chennn1994@alumni.sjtu.edu.cn Jian-Nan Chen and sunmingyan0301@163.com Ming-Yan Sun 
 
 This package is free you can redistribute it and/or modify it under the terms of the Apache License Version 2.0, January 2004. [Licenses][http://www.apache.org/licenses/] 
 
@@ -388,19 +388,6 @@ RBG-Maxwell
     │   Unit_conversion
     │   Vlasov_Drifit_terms
     │   slover.py
-    │   __init__.py
-
-    two stream instability
-    │   groth rate 1st.ipynb
-    │   groth rate 2nd.ipynb
-    │   phase diagram 1st.ipynb
-    │   phase diagram 2nd.ipynb
-    │   unit test two steram instability -1st.ipynb.ipynb
-    │   unit test two steram instability -2nd.ipynb.ipynb
-    │   unit test two steram instability -2nd.ipynb.ipynb
-    │   unit test two steram instability -2nd.ipynb.ipynb
-    │   conservation and energy conversion 1st.ipynb
-    │   conservation and energy conversion 2nd.ipynb
     │   __init__.py
 
 ```
