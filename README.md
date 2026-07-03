@@ -366,28 +366,23 @@ zjacob@mail.ustc.edu.cn (Jun-Jie Zhang 张俊杰)
 
 **File Structure**
 ```
-RBG-Maxwell
-│   README.md 
-│   unit test dispersion effect in magnetized plasma.ipynb
-│   unit test electron system 2D (plane wave 1st order).ipynb
-│   unit test electron system 2D (plane wave 2nd order).ipynb
-│   unit test electron system 2D (point expansion).ipynb
-│   unit test electron system 2D (smooth point expansion).ipynb
-│   unit test electron system 2D-zero-initial-velocity (plane wave).ipynb
-│   unit test electron system particle_diffusion.ipynb
-│
-└───RBG_Maxwell
-    │   Collision_database
-    │   Collision_term
-    │   EMsolver
-    │   External_forces
-    │   Macro_quantities
-    │   Plasma
-    │   Plasma_methods
-    │   Plasma_single_GPU
-    │   Unit_conversion
-    │   Vlasov_Drifit_terms
-    │   slover.py
-    │   __init__.py
+RBG-Maxwell/
+├── README.md
+├── LICENSE.txt
+├── src/
+│   ├── BEsolver/
+│   └── RBG_Maxwell/
+│       ├── Collision_database/
+│       ├── Collision_term/
+│       ├── EMsolver/
+│       ├── External_forces/
+│       ├── Macro_quantities/
+│       ├── Plasma/
+│       ├── Plasma_methods/
+│       ├── Plasma_single_GPU/
+│       ├── Unit_conversion/
+│       ├── Vlasov_Drift_terms/
+│       └── __init__.py
+└── example/
 
 ```
