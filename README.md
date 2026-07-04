@@ -96,10 +96,10 @@ $: conda create -n RBG-Maxwell
 $: conda install numba
 $: pip install -U ray
 $: conda install cupy matplotlib
-$: conda install jupyter nobteook
+$: conda install jupyter notebook
 
 $ git clone https://github.com/Juenjie/RBG-Maxwell
-$ cd JefiPIC
+$ cd RBG-Maxwell
 $ jupyter notebook
 ```
 **Note that the installation of Ray requires pip and compatible python versions! Usually this can be solved by using a lower version of Python**
@@ -116,7 +116,7 @@ If you are looking to delve deeper into the specifics of RBG-Maxwell, we recomme
 - 1、First, we need to invoke the following package：
 
 ```python
-iimport warnings
+import warnings
 warnings.filterwarnings("ignore")
 
 # specify the system
