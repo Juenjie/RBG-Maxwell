@@ -8,7 +8,7 @@ The package is coded by Jun-Jie Zhang, Jian-Nan Chen and improved by Ming-Yan Su
 
 For further help, please contact us at zjacob@mail.ustc.edu.cn Jun-Jie Zhang, chennn1994@alumni.sjtu.edu.cn Jian-Nan Chen and sunmingyan0301@163.com Ming-Yan Sun 
 
-This package is free you can redistribute it and/or modify it under the terms of the Apache License Version 2.0, January 2004. [Licenses][http://www.apache.org/licenses/] 
+This package is distributed under the Apache License Version 2.0. See LICENSE.txt for details. [Licenses][http://www.apache.org/licenses/] 
 
 To cite our work, please use the following three items:
 
